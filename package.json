@@ -1,0 +1,25 @@
+{
+  "name": "next-vercel",
+  "version": "1.0.0",
+  "description": "Testing NextJS with Vercel.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantovsky/next-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantovsky/next-vercel/issues"
+  },
+  "homepage": "https://github.com/dantovsky/next-vercel#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
